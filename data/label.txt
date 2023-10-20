@@ -1,0 +1,9 @@
+单兵武器	AAA
+导弹	BBB
+其他武器装备	CCC
+火炮	DDD
+太空装备	EEE
+装甲车辆	FFF
+飞行器	GGG
+炸弹	HHH
+舰船舰艇	III
